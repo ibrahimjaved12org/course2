@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course2"
+  },
+  "course_title": "course2",
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "76a1c680-6808-46a6-9cc9-9b9a6e9de3f9",
+  "site_short_id": "course2"
+}
